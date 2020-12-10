@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "apple",
+      "price": 15,
+      "id": 1
+    },
+    {
+      "name": "banana",
+      "price": 5,
+      "id": 2
+    },
+    {
+      "name": "鍵盤",
+      "price": "800",
+      "id": 3
+    }
+  ]
+}
